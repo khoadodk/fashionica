@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .announce-bar {
     display: flex;
     justify-content: center;
@@ -8,4 +9,17 @@
     color: #fff;
     font-weight: 700;
     height: 55px
+=======
+
+.announce-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0;
+    font-size: 1.2rem;
+    background: var(--announce-bar-default);
+    color: #fff;
+    font-weight: 700;
+    height: 55px
+>>>>>>> 915a898838b484dc4737831ab48604c0e609b067
 }
