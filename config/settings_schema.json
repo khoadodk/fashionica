@@ -8,6 +8,34 @@
     "theme_support_url": "https://support.shopify.com/"
   },
   {
+    "name": "Header Settings",
+    "settings": [
+      {
+        "type": "header",
+        "content": "Global Styles"
+      },
+      {
+        "type": "color",
+        "id": "header_bg",
+        "default": "#f7f9fd",
+        "label": "Body Background",
+        "info": "This is the background color for the whole site"
+      },
+      {
+        "type": "checkbox",
+        "id": "header_transparent",
+        "label": "Header Transparent",
+        "default": false
+      },
+      {
+        "type": "checkbox",
+        "id": "header_sticky",
+        "label": "Stick Header To The Top",
+        "default": false
+      }
+    ]
+  },
+  {
     "name": "t:settings_schema.colors.name",
     "settings": [
       {
