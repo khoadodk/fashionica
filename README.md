@@ -1,6 +1,6 @@
-<h1 align="center"><project-name></h1>
+<h1 align="center">Shopify Theme</h1>
 
-<p align="center"><project-description></p>
+<p align="center">A customized front page theme.</p>
 
 ## Links
 
