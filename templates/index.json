@@ -140,7 +140,7 @@
         "total_products": 8,
         "container_shape": "square",
         "image_fit": "contain",
-        "background": "#EDEFF5",
+        "background": "#edeff5",
         "opacity": 100,
         "show_title": true,
         "show_price": true,
