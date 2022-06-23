@@ -117,7 +117,10 @@
 }
 
 @media only screen and (max-width: 600px) {
+    .hero1__bg {
+        position: relative;
+    }
     .hero1__info {
-        text-align: center;
+        position: absolute;
     }
 }
