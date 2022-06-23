@@ -120,4 +120,7 @@
     .hero1__content-container {
         text-align: center;
     }
+    .hero1__info {
+        left: -100px;
+    }
 }
