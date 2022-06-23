@@ -132,12 +132,31 @@
         "opacity": 50,
         "info_alignment": "right"
       }
+    },
+    "165594820248645bac": {
+      "type": "collection-products-1",
+      "settings": {
+        "collection": "vans",
+        "total_products": 9,
+        "container_shape": "square",
+        "image_fit": "contain",
+        "background": "#EDEFF5",
+        "opacity": 100,
+        "show_title": true,
+        "show_price": true,
+        "xxl_col": "col-xxl-2",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-4",
+        "md_col": "col-md-4",
+        "sm_col": "col-sm-6"
+      }
     }
   },
   "order": [
     "1655947725ff423a69",
     "1655948082f6e55c30",
     "16559480846342c121",
-    "16559482008a26a752"
+    "16559482008a26a752",
+    "165594820248645bac"
   ]
 }
