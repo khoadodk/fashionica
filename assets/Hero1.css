@@ -117,10 +117,8 @@
 }
 
 @media only screen and (max-width: 600px) {
-    .hero1__bg {
-        position: relative;
-    }
-    .hero1__info {
-        position: absolute;
+    .hero1__content-container {
+        display: flex;
+        justify-content: center;
     }
 }
