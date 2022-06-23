@@ -130,7 +130,7 @@
         "image": "shopify:\/\/shop_images\/man-hiking-in-mountains.jpg",
         "background": "#000000",
         "opacity": 50,
-        "info_alignment": "right"
+        "info_alignment": "center"
       }
     },
     "165594820248645bac": {
