@@ -119,6 +119,6 @@
 @media only screen and (max-width: 600px) {
     .hero1__content-container {
         display: flex;
-        justify-content: center;
+        justify-content: center!important;
     }
 }
