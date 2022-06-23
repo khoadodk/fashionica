@@ -93,11 +93,51 @@
         "md_col": "col-md-4",
         "sm_col": "col-sm-2"
       }
+    },
+    "16559482008a26a752": {
+      "type": "hero-one",
+      "blocks": {
+        "16559482008b728ce0-0": {
+          "type": "heading",
+          "settings": {
+            "title": "25% OFF ALL HIKING  GEARS",
+            "title_size": "md"
+          }
+        },
+        "16559482008b728ce0-1": {
+          "type": "paragraph",
+          "disabled": true,
+          "settings": {
+            "paragraph": "Please enter a paragraph.",
+            "text_align": "center"
+          }
+        },
+        "16559482008b728ce0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "16559482008b728ce0-0",
+        "16559482008b728ce0-1",
+        "16559482008b728ce0-2"
+      ],
+      "settings": {
+        "hero_height": "50vh",
+        "image": "shopify:\/\/shop_images\/man-hiking-in-mountains.jpg",
+        "background": "#000000",
+        "opacity": 50,
+        "info_alignment": "right"
+      }
     }
   },
   "order": [
     "1655947725ff423a69",
     "1655948082f6e55c30",
-    "16559480846342c121"
+    "16559480846342c121",
+    "16559482008a26a752"
   ]
 }
