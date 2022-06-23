@@ -37,9 +37,26 @@
         "opacity": 50,
         "info_alignment": "right"
       }
+    },
+    "1655948082f6e55c30": {
+      "type": "hero-two",
+      "settings": {
+        "hero_height": "75vh",
+        "image1": "shopify:\/\/shop_images\/mens-fashion-man-in-shirt-and-jeans-leaning-on-bicycle.jpg",
+        "background1": "#000000",
+        "opacity1": 50,
+        "button_label1": "MEN'S",
+        "button_link1": "shopify:\/\/collections\/men",
+        "image2": "shopify:\/\/shop_images\/woman-in-park-afternoon.jpeg",
+        "background2": "#000000",
+        "opacity2": 50,
+        "button_label2": "WOMEN'S",
+        "button_link2": "shopify:\/\/collections\/women"
+      }
     }
   },
   "order": [
-    "1655947725ff423a69"
+    "1655947725ff423a69",
+    "1655948082f6e55c30"
   ]
 }
