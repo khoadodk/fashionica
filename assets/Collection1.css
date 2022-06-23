@@ -117,3 +117,9 @@
 .collection1__color--yellow {
     background: #ff0
 }
+
+@media only screen and (max-width: 600px) {
+    .collection1__product-img {
+        flex-direction: column;
+    }
+}
