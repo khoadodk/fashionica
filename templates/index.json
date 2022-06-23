@@ -53,10 +53,51 @@
         "button_label2": "WOMEN'S",
         "button_link2": "shopify:\/\/collections\/women"
       }
+    },
+    "16559480846342c121": {
+      "type": "collection-group",
+      "blocks": {
+        "16559480845d2f8a1a-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "adidas"
+          }
+        },
+        "16559480845d2f8a1a-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nike"
+          }
+        },
+        "16559480845d2f8a1a-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "puma"
+          }
+        }
+      },
+      "block_order": [
+        "16559480845d2f8a1a-0",
+        "16559480845d2f8a1a-1",
+        "16559480845d2f8a1a-2"
+      ],
+      "settings": {
+        "container_shape": "square",
+        "image_fit": "contain",
+        "background": "#ffffff",
+        "opacity": 100,
+        "show_title": false,
+        "xxl_col": "col-xxl-4",
+        "xl_col": "col-xl-4",
+        "lg_col": "col-lg-4",
+        "md_col": "col-md-4",
+        "sm_col": "col-sm-2"
+      }
     }
   },
   "order": [
     "1655947725ff423a69",
-    "1655948082f6e55c30"
+    "1655948082f6e55c30",
+    "16559480846342c121"
   ]
 }
